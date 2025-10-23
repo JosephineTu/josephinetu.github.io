@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Josephine (Xiaoran) Tu"
   pronouns         : she/her # example: "she/her"  
-  bio              : "this is a test message"
+  bio              :
   location         : "Chicago,IL,USA"
   employer         : "University of Chicago"
   uri              : # URL
