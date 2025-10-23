@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am a second year student at the University of Chicago studying computer science and computational neuroscience. 
-My research interests lie in the intersection of machine learning and neuroscience-especially when it is about human and computer vision, but I am also actively exploring other related fields.
-Besides research, I enjoy playing the guitar and ACGN culture. 
+Hello. I am a second year student at the University of Chicago majoring in Computer Science. 
+My research interests lie in computational neuroscience, and more broadly, applying machine learning and computational methods to studying how the brain works.
+Besides research, I enjoy listening to music, playing electrical guitar, and gaming. 
 
